@@ -1,3 +1,4 @@
+o
 # 🎬 Movies Search App (OMDb API)
 
 This project is a simple movie search application built with **Streamlit** and the **OMDb API**.  
@@ -11,20 +12,22 @@ It allows users to search for movies by title and view their posters, release ye
 - Uses a placeholder image when no poster is available.
 - Environment variables for secure API key management.
 - Clean and modular code with separate API and UI scripts.
-📜 How It Works
-Movies_Api.py:
+
+##📜 How It Works
+
+### Movies_Api.py:
 
 Uses the OMDb API to fetch movie data.
 
 Converts JSON results into a Pandas DataFrame.
 
-app.py:
+### app.py:
 
 Builds the UI with Streamlit.
 
 Allows users to search for movies and display results in a styled grid.
 
-📌 Example Usage
+##📌  Example Usage
 Open the Streamlit app.
 
 Enter a movie title (e.g., Inception).
