@@ -13,7 +13,7 @@ It allows users to search for movies by title and view their posters, release ye
 - Environment variables for secure API key management.
 - Clean and modular code with separate API and UI scripts.
 
-##📜 How It Works
+## 📜 How It Works
 
 ### Movies_Api.py:
 
@@ -27,7 +27,7 @@ Builds the UI with Streamlit.
 
 Allows users to search for movies and display results in a styled grid.
 
-##📌  Example Usage
+## 📌  Example Usage
 Open the Streamlit app.
 
 Enter a movie title (e.g., Inception).
